@@ -2,8 +2,7 @@
 The aim of this project is to make a function that returns a lineending with a newline, read from a file descriptor.
 
 
-
-![image](https://github.com/user-attachments/assets/0effd645-7751-4350-a69f-51dd82640b5b)
+![Get Next Line](https://github.com/user-attachments/assets/12821098-5e9f-4d95-8662-e97bf6732508)
 
 
 The purpose of this project is to read a line on a fd. This task is crucial to understand for a programmer since much of the time is based on manipulating files for data management and persistence. This project consists of coding a function that returns one line at a time from a text file.
